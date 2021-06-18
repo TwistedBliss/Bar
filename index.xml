@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Twisted Bliss</title>
-    <link>http://twisted-bliss.org/</link>
-    <description>Recent content on Twisted Bliss</description>
+    <link>https://github.com/TwistedBliss/Bar/</link>
+    <description>Twisted Bliss</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://twisted-bliss.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/TwistedBliss/Bar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menu</title>
-      <link>http://twisted-bliss.org/Menu/</link>
+      <link>https://github.com/TwistedBliss/Bar/Menu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://twisted-bliss.org/Menu/</guid>
+      <guid>https://github.com/TwistedBliss/Bar/Menu/</guid>
       <description>Menu</description>
     </item>
     
