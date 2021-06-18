@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://twisted-bliss.org/categories/</loc>
+    <loc>https://github.com/TwistedBliss/Bar/categories/</loc>
   </url><url>
-    <loc>http://twisted-bliss.org/Menu/</loc>
+    <loc>https://github.com/TwistedBliss/Bar/Menu/</loc>
   </url><url>
-    <loc>http://twisted-bliss.org/menu/</loc>
+    <loc>https://github.com/TwistedBliss/Bar/menu/</loc>
   </url><url>
-    <loc>http://twisted-bliss.org/posts/</loc>
+    <loc>https://github.com/TwistedBliss/Bar/posts/</loc>
   </url><url>
-    <loc>http://twisted-bliss.org/tags/</loc>
+    <loc>https://github.com/TwistedBliss/Bar/tags/</loc>
   </url><url>
-    <loc>http://twisted-bliss.org/</loc>
+    <loc>https://github.com/TwistedBliss/Bar/</loc>
   </url>
 </urlset>
